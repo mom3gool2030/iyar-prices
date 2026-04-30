@@ -1,0 +1,611 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-29T16:18:48.063835",
+    "generated_at_arabic": "2026-04-29 16:18",
+    "city": "الرياض",
+    "country": "المملكة العربية السعودية",
+    "sources": [
+      {
+        "name": "منصة سكني",
+        "url": "https://sakani.sa/reports-and-data"
+      },
+      {
+        "name": "البورصة العقارية",
+        "url": "https://srem.moj.gov.sa"
+      }
+    ],
+    "districts_count": 28,
+    "version": "1.0",
+    "update_frequency": "every 15 days"
+  },
+  "districts": {
+    "الملقا": {
+      "name": "الملقا",
+      "region": "north",
+      "tier": "luxury",
+      "annual_rent": {
+        "apartment": 65000,
+        "villa": 180000,
+        "floor": 110000
+      },
+      "monthly_rent": {
+        "apartment": 5417,
+        "villa": 15000,
+        "floor": 9167
+      },
+      "fair_range": {
+        "low": 55000,
+        "high": 75000
+      },
+      "price_per_sqm": 6800,
+      "last_updated": "2026-04-29"
+    },
+    "حطين": {
+      "name": "حطين",
+      "region": "north",
+      "tier": "luxury",
+      "annual_rent": {
+        "apartment": 60000,
+        "villa": 170000,
+        "floor": 105000
+      },
+      "monthly_rent": {
+        "apartment": 5000,
+        "villa": 14167,
+        "floor": 8750
+      },
+      "fair_range": {
+        "low": 51000,
+        "high": 69000
+      },
+      "price_per_sqm": 6200,
+      "last_updated": "2026-04-29"
+    },
+    "الياسمين": {
+      "name": "الياسمين",
+      "region": "north",
+      "tier": "premium",
+      "annual_rent": {
+        "apartment": 45000,
+        "villa": 130000,
+        "floor": 80000
+      },
+      "monthly_rent": {
+        "apartment": 3750,
+        "villa": 10833,
+        "floor": 6667
+      },
+      "fair_range": {
+        "low": 38000,
+        "high": 51500
+      },
+      "price_per_sqm": 4800,
+      "last_updated": "2026-04-29"
+    },
+    "القيروان": {
+      "name": "القيروان",
+      "region": "north",
+      "tier": "premium",
+      "annual_rent": {
+        "apartment": 40000,
+        "villa": 115000,
+        "floor": 70000
+      },
+      "monthly_rent": {
+        "apartment": 3333,
+        "villa": 9583,
+        "floor": 5833
+      },
+      "fair_range": {
+        "low": 34000,
+        "high": 46000
+      },
+      "price_per_sqm": 4200,
+      "last_updated": "2026-04-29"
+    },
+    "النرجس": {
+      "name": "النرجس",
+      "region": "north",
+      "tier": "mid",
+      "annual_rent": {
+        "apartment": 35000,
+        "villa": 95000,
+        "floor": 60000
+      },
+      "monthly_rent": {
+        "apartment": 2917,
+        "villa": 7917,
+        "floor": 5000
+      },
+      "fair_range": {
+        "low": 30000,
+        "high": 40000
+      },
+      "price_per_sqm": 3600,
+      "last_updated": "2026-04-29"
+    },
+    "غرناطة": {
+      "name": "غرناطة",
+      "region": "north",
+      "tier": "mid",
+      "annual_rent": {
+        "apartment": 28000,
+        "villa": 78000,
+        "floor": 50000
+      },
+      "monthly_rent": {
+        "apartment": 2333,
+        "villa": 6500,
+        "floor": 4167
+      },
+      "fair_range": {
+        "low": 24000,
+        "high": 32000
+      },
+      "price_per_sqm": 2900,
+      "last_updated": "2026-04-29"
+    },
+    "العارض": {
+      "name": "العارض",
+      "region": "north",
+      "tier": "premium",
+      "annual_rent": {
+        "apartment": 42000,
+        "villa": 125000,
+        "floor": 75000
+      },
+      "monthly_rent": {
+        "apartment": 3500,
+        "villa": 10417,
+        "floor": 6250
+      },
+      "fair_range": {
+        "low": 35500,
+        "high": 48500
+      },
+      "price_per_sqm": 4500,
+      "last_updated": "2026-04-29"
+    },
+    "الصحافة": {
+      "name": "الصحافة",
+      "region": "north",
+      "tier": "premium",
+      "annual_rent": {
+        "apartment": 38000,
+        "villa": 110000,
+        "floor": 65000
+      },
+      "monthly_rent": {
+        "apartment": 3167,
+        "villa": 9167,
+        "floor": 5417
+      },
+      "fair_range": {
+        "low": 32500,
+        "high": 43500
+      },
+      "price_per_sqm": 4100,
+      "last_updated": "2026-04-29"
+    },
+    "النفل": {
+      "name": "النفل",
+      "region": "north",
+      "tier": "premium",
+      "annual_rent": {
+        "apartment": 40000,
+        "villa": 120000,
+        "floor": 72000
+      },
+      "monthly_rent": {
+        "apartment": 3333,
+        "villa": 10000,
+        "floor": 6000
+      },
+      "fair_range": {
+        "low": 34000,
+        "high": 46000
+      },
+      "price_per_sqm": 4400,
+      "last_updated": "2026-04-29"
+    },
+    "الورود": {
+      "name": "الورود",
+      "region": "north",
+      "tier": "premium",
+      "annual_rent": {
+        "apartment": 38000,
+        "villa": 115000,
+        "floor": 70000
+      },
+      "monthly_rent": {
+        "apartment": 3167,
+        "villa": 9583,
+        "floor": 5833
+      },
+      "fair_range": {
+        "low": 32500,
+        "high": 43500
+      },
+      "price_per_sqm": 4200,
+      "last_updated": "2026-04-29"
+    },
+    "السليمانية": {
+      "name": "السليمانية",
+      "region": "central",
+      "tier": "luxury",
+      "annual_rent": {
+        "apartment": 75000,
+        "villa": 220000,
+        "floor": 130000
+      },
+      "monthly_rent": {
+        "apartment": 6250,
+        "villa": 18333,
+        "floor": 10833
+      },
+      "fair_range": {
+        "low": 64000,
+        "high": 86000
+      },
+      "price_per_sqm": 8500,
+      "last_updated": "2026-04-29"
+    },
+    "الروضة": {
+      "name": "الروضة",
+      "region": "central",
+      "tier": "luxury",
+      "annual_rent": {
+        "apartment": 65000,
+        "villa": 195000,
+        "floor": 115000
+      },
+      "monthly_rent": {
+        "apartment": 5417,
+        "villa": 16250,
+        "floor": 9583
+      },
+      "fair_range": {
+        "low": 55000,
+        "high": 75000
+      },
+      "price_per_sqm": 7800,
+      "last_updated": "2026-04-29"
+    },
+    "العليا": {
+      "name": "العليا",
+      "region": "central",
+      "tier": "luxury",
+      "annual_rent": {
+        "apartment": 70000,
+        "villa": 205000,
+        "floor": 120000
+      },
+      "monthly_rent": {
+        "apartment": 5833,
+        "villa": 17083,
+        "floor": 10000
+      },
+      "fair_range": {
+        "low": 59500,
+        "high": 80500
+      },
+      "price_per_sqm": 8200,
+      "last_updated": "2026-04-29"
+    },
+    "الملز": {
+      "name": "الملز",
+      "region": "central",
+      "tier": "mid",
+      "annual_rent": {
+        "apartment": 38000,
+        "villa": 115000,
+        "floor": 70000
+      },
+      "monthly_rent": {
+        "apartment": 3167,
+        "villa": 9583,
+        "floor": 5833
+      },
+      "fair_range": {
+        "low": 32500,
+        "high": 43500
+      },
+      "price_per_sqm": 4100,
+      "last_updated": "2026-04-29"
+    },
+    "المربع": {
+      "name": "المربع",
+      "region": "central",
+      "tier": "mid",
+      "annual_rent": {
+        "apartment": 42000,
+        "villa": 125000,
+        "floor": 78000
+      },
+      "monthly_rent": {
+        "apartment": 3500,
+        "villa": 10417,
+        "floor": 6500
+      },
+      "fair_range": {
+        "low": 35500,
+        "high": 48500
+      },
+      "price_per_sqm": 4300,
+      "last_updated": "2026-04-29"
+    },
+    "الرمال": {
+      "name": "الرمال",
+      "region": "east",
+      "tier": "budget",
+      "annual_rent": {
+        "apartment": 22000,
+        "villa": 65000,
+        "floor": 40000
+      },
+      "monthly_rent": {
+        "apartment": 1833,
+        "villa": 5417,
+        "floor": 3333
+      },
+      "fair_range": {
+        "low": 18500,
+        "high": 25500
+      },
+      "price_per_sqm": 2400,
+      "last_updated": "2026-04-29"
+    },
+    "قرطبة": {
+      "name": "قرطبة",
+      "region": "east",
+      "tier": "mid",
+      "annual_rent": {
+        "apartment": 25000,
+        "villa": 72000,
+        "floor": 45000
+      },
+      "monthly_rent": {
+        "apartment": 2083,
+        "villa": 6000,
+        "floor": 3750
+      },
+      "fair_range": {
+        "low": 21000,
+        "high": 28500
+      },
+      "price_per_sqm": 2700,
+      "last_updated": "2026-04-29"
+    },
+    "النظيم": {
+      "name": "النظيم",
+      "region": "east",
+      "tier": "budget",
+      "annual_rent": {
+        "apartment": 20000,
+        "villa": 58000,
+        "floor": 35000
+      },
+      "monthly_rent": {
+        "apartment": 1667,
+        "villa": 4833,
+        "floor": 2917
+      },
+      "fair_range": {
+        "low": 17000,
+        "high": 23000
+      },
+      "price_per_sqm": 2100,
+      "last_updated": "2026-04-29"
+    },
+    "الخليج": {
+      "name": "الخليج",
+      "region": "east",
+      "tier": "mid",
+      "annual_rent": {
+        "apartment": 26000,
+        "villa": 75000,
+        "floor": 46000
+      },
+      "monthly_rent": {
+        "apartment": 2167,
+        "villa": 6250,
+        "floor": 3833
+      },
+      "fair_range": {
+        "low": 22000,
+        "high": 30000
+      },
+      "price_per_sqm": 2800,
+      "last_updated": "2026-04-29"
+    },
+    "النسيم": {
+      "name": "النسيم",
+      "region": "east",
+      "tier": "budget",
+      "annual_rent": {
+        "apartment": 21000,
+        "villa": 62000,
+        "floor": 38000
+      },
+      "monthly_rent": {
+        "apartment": 1750,
+        "villa": 5167,
+        "floor": 3167
+      },
+      "fair_range": {
+        "low": 18000,
+        "high": 24000
+      },
+      "price_per_sqm": 2300,
+      "last_updated": "2026-04-29"
+    },
+    "طويق": {
+      "name": "طويق",
+      "region": "west",
+      "tier": "budget",
+      "annual_rent": {
+        "apartment": 16000,
+        "villa": 48000,
+        "floor": 28000
+      },
+      "monthly_rent": {
+        "apartment": 1333,
+        "villa": 4000,
+        "floor": 2333
+      },
+      "fair_range": {
+        "low": 13500,
+        "high": 18500
+      },
+      "price_per_sqm": 1800,
+      "last_updated": "2026-04-29"
+    },
+    "السويدي": {
+      "name": "السويدي",
+      "region": "west",
+      "tier": "mid",
+      "annual_rent": {
+        "apartment": 22000,
+        "villa": 65000,
+        "floor": 40000
+      },
+      "monthly_rent": {
+        "apartment": 1833,
+        "villa": 5417,
+        "floor": 3333
+      },
+      "fair_range": {
+        "low": 18500,
+        "high": 25500
+      },
+      "price_per_sqm": 2400,
+      "last_updated": "2026-04-29"
+    },
+    "ديراب": {
+      "name": "ديراب",
+      "region": "west",
+      "tier": "budget",
+      "annual_rent": {
+        "apartment": 18000,
+        "villa": 55000,
+        "floor": 32000
+      },
+      "monthly_rent": {
+        "apartment": 1500,
+        "villa": 4583,
+        "floor": 2667
+      },
+      "fair_range": {
+        "low": 15500,
+        "high": 20500
+      },
+      "price_per_sqm": 2000,
+      "last_updated": "2026-04-29"
+    },
+    "العزيزية": {
+      "name": "العزيزية",
+      "region": "west",
+      "tier": "mid",
+      "annual_rent": {
+        "apartment": 24000,
+        "villa": 70000,
+        "floor": 43000
+      },
+      "monthly_rent": {
+        "apartment": 2000,
+        "villa": 5833,
+        "floor": 3583
+      },
+      "fair_range": {
+        "low": 20500,
+        "high": 27500
+      },
+      "price_per_sqm": 2500,
+      "last_updated": "2026-04-29"
+    },
+    "الدرعية": {
+      "name": "الدرعية",
+      "region": "south",
+      "tier": "premium",
+      "annual_rent": {
+        "apartment": 35000,
+        "villa": 105000,
+        "floor": 65000
+      },
+      "monthly_rent": {
+        "apartment": 2917,
+        "villa": 8750,
+        "floor": 5417
+      },
+      "fair_range": {
+        "low": 30000,
+        "high": 40000
+      },
+      "price_per_sqm": 3800,
+      "last_updated": "2026-04-29"
+    },
+    "الشفا": {
+      "name": "الشفا",
+      "region": "south",
+      "tier": "mid",
+      "annual_rent": {
+        "apartment": 28000,
+        "villa": 82000,
+        "floor": 48000
+      },
+      "monthly_rent": {
+        "apartment": 2333,
+        "villa": 6833,
+        "floor": 4000
+      },
+      "fair_range": {
+        "low": 24000,
+        "high": 32000
+      },
+      "price_per_sqm": 2900,
+      "last_updated": "2026-04-29"
+    },
+    "الحاير": {
+      "name": "الحاير",
+      "region": "south",
+      "tier": "budget",
+      "annual_rent": {
+        "apartment": 18000,
+        "villa": 52000,
+        "floor": 30000
+      },
+      "monthly_rent": {
+        "apartment": 1500,
+        "villa": 4333,
+        "floor": 2500
+      },
+      "fair_range": {
+        "low": 15500,
+        "high": 20500
+      },
+      "price_per_sqm": 1900,
+      "last_updated": "2026-04-29"
+    },
+    "بدر": {
+      "name": "بدر",
+      "region": "south",
+      "tier": "budget",
+      "annual_rent": {
+        "apartment": 16000,
+        "villa": 46000,
+        "floor": 27000
+      },
+      "monthly_rent": {
+        "apartment": 1333,
+        "villa": 3833,
+        "floor": 2250
+      },
+      "fair_range": {
+        "low": 13500,
+        "high": 18500
+      },
+      "price_per_sqm": 1700,
+      "last_updated": "2026-04-29"
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-15T09:19:23.431520",
-    "generated_at_arabic": "2026-06-15 09:19",
+    "generated_at": "2026-07-01T07:09:07.910849",
+    "generated_at_arabic": "2026-07-01 07:09",
     "city": "الرياض",
     "country": "المملكة العربية السعودية",
     "sources": [
@@ -38,7 +38,7 @@
         "high": 75000
       },
       "price_per_sqm": 6800,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "حطين": {
       "name": "حطين",
@@ -59,7 +59,7 @@
         "high": 69000
       },
       "price_per_sqm": 6200,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "الياسمين": {
       "name": "الياسمين",
@@ -80,7 +80,7 @@
         "high": 51500
       },
       "price_per_sqm": 4800,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "القيروان": {
       "name": "القيروان",
@@ -101,7 +101,7 @@
         "high": 46000
       },
       "price_per_sqm": 4200,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "النرجس": {
       "name": "النرجس",
@@ -122,7 +122,7 @@
         "high": 40000
       },
       "price_per_sqm": 3600,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "غرناطة": {
       "name": "غرناطة",
@@ -143,7 +143,7 @@
         "high": 32000
       },
       "price_per_sqm": 2900,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "العارض": {
       "name": "العارض",
@@ -164,7 +164,7 @@
         "high": 48500
       },
       "price_per_sqm": 4500,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "الصحافة": {
       "name": "الصحافة",
@@ -185,7 +185,7 @@
         "high": 43500
       },
       "price_per_sqm": 4100,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "النفل": {
       "name": "النفل",
@@ -206,7 +206,7 @@
         "high": 46000
       },
       "price_per_sqm": 4400,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "الورود": {
       "name": "الورود",
@@ -227,7 +227,7 @@
         "high": 43500
       },
       "price_per_sqm": 4200,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "السليمانية": {
       "name": "السليمانية",
@@ -248,7 +248,7 @@
         "high": 86000
       },
       "price_per_sqm": 8500,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "الروضة": {
       "name": "الروضة",
@@ -269,7 +269,7 @@
         "high": 75000
       },
       "price_per_sqm": 7800,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "العليا": {
       "name": "العليا",
@@ -290,7 +290,7 @@
         "high": 80500
       },
       "price_per_sqm": 8200,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "الملز": {
       "name": "الملز",
@@ -311,7 +311,7 @@
         "high": 43500
       },
       "price_per_sqm": 4100,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "المربع": {
       "name": "المربع",
@@ -332,7 +332,7 @@
         "high": 48500
       },
       "price_per_sqm": 4300,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "الرمال": {
       "name": "الرمال",
@@ -353,7 +353,7 @@
         "high": 25500
       },
       "price_per_sqm": 2400,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "قرطبة": {
       "name": "قرطبة",
@@ -374,7 +374,7 @@
         "high": 28500
       },
       "price_per_sqm": 2700,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "النظيم": {
       "name": "النظيم",
@@ -395,7 +395,7 @@
         "high": 23000
       },
       "price_per_sqm": 2100,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "الخليج": {
       "name": "الخليج",
@@ -416,7 +416,7 @@
         "high": 30000
       },
       "price_per_sqm": 2800,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "النسيم": {
       "name": "النسيم",
@@ -437,7 +437,7 @@
         "high": 24000
       },
       "price_per_sqm": 2300,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "طويق": {
       "name": "طويق",
@@ -458,7 +458,7 @@
         "high": 18500
       },
       "price_per_sqm": 1800,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "السويدي": {
       "name": "السويدي",
@@ -479,7 +479,7 @@
         "high": 25500
       },
       "price_per_sqm": 2400,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "ديراب": {
       "name": "ديراب",
@@ -500,7 +500,7 @@
         "high": 20500
       },
       "price_per_sqm": 2000,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "العزيزية": {
       "name": "العزيزية",
@@ -521,7 +521,7 @@
         "high": 27500
       },
       "price_per_sqm": 2500,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "الدرعية": {
       "name": "الدرعية",
@@ -542,7 +542,7 @@
         "high": 40000
       },
       "price_per_sqm": 3800,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "الشفا": {
       "name": "الشفا",
@@ -563,7 +563,7 @@
         "high": 32000
       },
       "price_per_sqm": 2900,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "الحاير": {
       "name": "الحاير",
@@ -584,7 +584,7 @@
         "high": 20500
       },
       "price_per_sqm": 1900,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     },
     "بدر": {
       "name": "بدر",
@@ -605,7 +605,7 @@
         "high": 18500
       },
       "price_per_sqm": 1700,
-      "last_updated": "2026-06-15"
+      "last_updated": "2026-07-01"
     }
   }
 }
